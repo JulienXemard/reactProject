@@ -38,9 +38,23 @@ As we were both conscious of the absolute necessity to reduce the pollution leve
 -   Information related to pollution metrics
 
 ---
+## Processes
+* To efficiently find our idea, we quickly came to an agreement on 3 different themes.
+* From this point we actively searched for the APIs that were easely accessible, verifying the Data syntax through Insomnia.
+* Once validated, VSCode offers the possibility to live share which we used to work on separated component, together.
+* This was incredibly efficient as it allowed us to directly discuss & validate the way we wanted to structure or render our project.
+
 ## Challenges
 * Implementing MapBox without being prior shown.
 * Bulma - everything we tried was being overridden.
+
+## Wins
+* Calling 4 APIs within 48h in a React with no previous experience was a real challenge, therefore incredibly rewarding.
+* Using my previous professional experiences to organise & ensure an efficient pair coding ; working all objectives with Brenda Ty was an absolute pleasure.
+
+## Future development
+* Working on 4 APIs was an incredible learning curve but to the cost of our render (SCSS).
+* With more experience, Brenda Ty & myself will definitely revisit our App in order to offer a better product & user experience.
 
 ![bikeMap](readMeImages/bikeMap.png)
 
